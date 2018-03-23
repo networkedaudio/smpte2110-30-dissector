@@ -1,4 +1,4 @@
-# smpte2110-20 dissector
+# smpte2110-30 dissector
 
 
 Lua Dissector for ST 2110_30
